@@ -23,6 +23,8 @@ import retrofit2.Response;
 import retrofit2.Retrofit;
 import retrofit2.converter.gson.GsonConverterFactory;
 
+//this is my main activity
+
 public class MainActivity extends Activity implements android.support.v7.widget.SearchView.OnQueryTextListener{
 
     SearchView searchBox;
